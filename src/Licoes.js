@@ -25,7 +25,25 @@ export default function Licoes(){
 
             <div className="flex divisão">
             <div className="card w-96 bg-base-100 shadow-xl">
-  <figure><img src="https://blog.bbbaterias.com.br/wp-content/uploads/2018/06/199658-conheca-os-4-principais-tipos-de-hardware.jpg" alt="Shoes" /></figure>
+  <figure><img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-do-dia-da-internet_114360-5303.jpg?w=2000" height='300px' alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">
+      internet o que é?
+      <div className="badge badge-secondary">NOVO</div>
+    </h2>
+    <p>A internet é uma rede global de computadores interconectados, que permite às pessoas em todo o mundo compartilhar informações, comunicar-se, acessar sites, enviar e receber e-mails e participar de diversas atividades online. Ela funciona por meio de protocolos de comunicação que garantem a troca de dados entre dispositivos conectados.
+
+
+
+
+</p>
+    <div className="card-actions justify-end">
+      <div className="badge badge-outline">Informatica</div> 
+    </div>
+  </div>
+</div>
+            <div className="card w-96 bg-base-100 shadow-xl">
+  <figure><img  height='300px' src="https://blog.bbbaterias.com.br/wp-content/uploads/2018/06/199658-conheca-os-4-principais-tipos-de-hardware.jpg" alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">
       Hardware o que é?
@@ -39,7 +57,7 @@ export default function Licoes(){
   </div>
 </div>
 <div className="card w-96 bg-base-100 shadow-xl">
-  <figure><img src="https://audcontcontabilidade.com.br/wp-content/uploads/Como-Abrir-uma-Empresa-de-Software.jpg" alt="Shoes" /></figure>
+  <figure><img  height='300px' src="https://audcontcontabilidade.com.br/wp-content/uploads/Como-Abrir-uma-Empresa-de-Software.jpg" alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">
       Software o que é?
