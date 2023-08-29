@@ -20,7 +20,7 @@ export default function Quiz(){
     Quiz - Hardware Software
   </div>
   <div className="collapse-content"> 
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZ-WsjnGzsyYwSKJoWbAPF11zDCupSFQcnlW_rV8EHk6Krrg/viewform?embedded=true" width="100%" height="auto" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZ-WsjnGzsyYwSKJoWbAPF11zDCupSFQcnlW_rV8EHk6Krrg/viewform?embedded=true" width="100%" height="auto " frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
   </div>
 </div>
         </div>
