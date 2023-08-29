@@ -9,7 +9,7 @@ export default function Hero(){
       <h1 className="text-5xl font-bold">Bem Vindo ao Naia Alunos!</h1>
       <p className="py-6">
 Bem-vindo ao Naia Alunos! Aqui, oferecemos quizzes desafiadores, lições interativas e apostilas abrangentes para tornar o aprendizado envolvente. Acompanhe seu progresso, conecte-se com outros alunos na nossa comunidade e acesse o conteúdo de qualquer lugar. Comece sua jornada educacional hoje mesmo!</p>
-      <button className="btn btn-primary">Get Started</button>
+      <button className="btn btn-primary"><a href='/lessons'>Iniciar</a></button>
     </div>
   </div>
 </div>

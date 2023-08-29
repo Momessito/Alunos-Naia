@@ -94,3 +94,7 @@ footer
   font-size: 25px;
   font-weight: 600;
 }
+.licoes h1:first-child{
+  color: black;
+  font-size: 3rem;
+}

@@ -10,6 +10,8 @@ export default function Licoes(){
             <br/>
             <br/>
             <br/>
+            <hr></hr>
+
             <p>Para começarmos, um filme muito interessante que sempre passo:</p>
             <h1>O filme o jogo da imitação</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/lRid96uWpqo?si=3uoCIrKy1CHg-tqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -21,8 +23,10 @@ export default function Licoes(){
             <br/>
             <br/>
             <br/>
+            <hr></hr>
+            <center>
             <h1>Aulas Conteudos</h1>
-
+            </center>
             <div className="flex divisão">
             <div className="card w-96 bg-base-100 shadow-xl">
   <figure><img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-do-dia-da-internet_114360-5303.jpg?w=2000" height='300px' alt="Shoes" /></figure>
