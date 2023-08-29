@@ -17,11 +17,12 @@ export default function Licoes(){
             <br/>
             <br/>
             <p>Alem disso temos tambem o site que sempre utilizamos que é o :</p>
-            <a className="tooltip tooltip-open tooltip-right" data-tip="Clique para abrir!" href="https://www.typingclub.com/sportal/program-3.game">Typing Club</a>         
+            <a className="tooltip tooltip-open tooltip-right" data-tip="Clique para abrir!" href="https://www.typingclub.com/sportal/program-3.game">Typing Club</a>         </div>
             <br/>
             <br/>
             <br/>
             <h1>Aulas Conteudos</h1>
+
             <div className="flex divisão">
             <div className="card w-96 bg-base-100 shadow-xl">
   <figure><img src="https://blog.bbbaterias.com.br/wp-content/uploads/2018/06/199658-conheca-os-4-principais-tipos-de-hardware.jpg" alt="Shoes" /></figure>
@@ -53,7 +54,7 @@ Software é o conjunto de programas, aplicativos e instruções que permitem ao 
   </div>
 </div>
             </div>
-            </div>
+
         </div>
     );
 }
