@@ -17,10 +17,43 @@ export default function Licoes(){
             <br/>
             <br/>
             <p>Alem disso temos tambem o site que sempre utilizamos que é o :</p>
-            <a className="tooltip tooltip-open tooltip-right" data-tip="Clique para abrir!" href="https://www.typingclub.com/sportal/program-3.game">Typing Club</a>         </div>
+            <a className="tooltip tooltip-open tooltip-right" data-tip="Clique para abrir!" href="https://www.typingclub.com/sportal/program-3.game">Typing Club</a>         
             <br/>
             <br/>
             <br/>
+            <h1>Aulas Conteudos</h1>
+            <div className="flex divisão">
+            <div className="card w-96 bg-base-100 shadow-xl">
+  <figure><img src="https://blog.bbbaterias.com.br/wp-content/uploads/2018/06/199658-conheca-os-4-principais-tipos-de-hardware.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">
+      Hardware o que é?
+      <div className="badge badge-secondary">NOVO</div>
+    </h2>
+    <p>Hardware é a parte física de um computador, incluindo componentes como a tela, teclado, mouse e circuitos internos. É o que você pode tocar e ver, permitindo que o computador funcione e realize tarefas.</p>
+    <div className="card-actions justify-end">
+      <div className="badge badge-outline">Informatica</div> 
+      <div className="badge badge-outline">Manutenção de Hardware</div>
+    </div>
+  </div>
+</div>
+<div className="card w-96 bg-base-100 shadow-xl">
+  <figure><img src="https://audcontcontabilidade.com.br/wp-content/uploads/Como-Abrir-uma-Empresa-de-Software.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">
+      Software o que é?
+      <div className="badge badge-secondary">NOVO</div>
+    </h2>
+    <p>
+Software é o conjunto de programas, aplicativos e instruções que permitem ao computador executar tarefas específicas. É a parte invisível do computador que controla o hardware e permite que ele realize diferentes funções, como navegar na internet, editar documentos e jogar jogos.</p>
+    <div className="card-actions justify-end">
+      <div className="badge badge-outline">Informatica</div> 
+      <div className="badge badge-outline">Manutenção de Hardware</div>
+    </div>
+  </div>
+</div>
+            </div>
+            </div>
         </div>
     );
 }
